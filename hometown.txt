@@ -1,0 +1,6 @@
+ hometowns
+ 
+ anantapur
+ hyderabad
+ guntakal
+ 
